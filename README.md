@@ -41,6 +41,7 @@ Each milestone will be documented in detail within the Jupyter notebooks.
 
 ## Repository Structure
 
+'''text
 The repository is organized as follows:
 GPT-2-Reproduce/
 │
@@ -71,5 +72,6 @@ GPT-2-Reproduce/
 ├── requirements.txt            # List of Python dependencies
 ├── README.md                   # Project overview (this file)
 └── LICENSE                     # MIT License file
+'''
 
 This structure separates code, documentation, and outputs for clarity and ease of use.
